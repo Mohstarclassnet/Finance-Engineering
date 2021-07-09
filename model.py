@@ -1,4 +1,4 @@
-딥러닝
+Funtion
 pip install tensorflow
 pip install --upgrade numpy
 import tensorflow as tf
@@ -12,7 +12,7 @@ from tensorflow.keras.layers import Dense, LSTM, Dropout
 
 yf.pdr_override()
 
-# 시작일, 종료일, '097950.KS'
+# funtion, funtionalty, '097950.KS'
 start_date = datetime(2018, 11, 3)
 end_date = datetime(2021, 1, 26)
 
