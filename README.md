@@ -1,2 +1,3 @@
 # Finance-Engineering
 
+Mergers combine two separate businesses into a single new legal entity. True mergers are uncommon because it’s rare for two equal companies to mutually benefit from combining resources and staff, including their CEOs. Unlike mergers, acquisitions do not …
